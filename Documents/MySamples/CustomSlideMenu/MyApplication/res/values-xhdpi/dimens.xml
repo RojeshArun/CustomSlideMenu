@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General Paddings -->
+    <dimen name="micro_padding">2dp</dimen>
+    <dimen name="small_padding">6dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="large_padding">11dp</dimen>
+    <dimen name="xtralarge_padding">17dp</dimen>
+    <dimen name="xxtralarge_padding">27dp</dimen>
+    
+      <dimen name="top_layout_heigth">56dp</dimen>
+      
+      <dimen name="header_text_size">17sp</dimen>
+
+</resources>

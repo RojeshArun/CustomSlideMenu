@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EuroQuiz</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Slide Menu Strings -->
+    <string name="coin_for_referral">Coin For Referral</string>
+    <string name="home">Home</string>
+    <string name="yesterday_s_result">Yesterday\'s Result</string>
+    <string name="top_100">Top 100</string>
+    <string name="answer_sheet">Answer Sheet</string>
+    <string name="find_members">Find Members</string>
+    <string name="my_subscription">My Subscription</string>
+    <string name="account_settings">Account Settings</string>
+
+</resources>
